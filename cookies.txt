@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pika-network.net	TRUE	/	FALSE	1999999999	xf_csrf	sCqjVpogNR3clw11
+pika-network.net	TRUE	/	FALSE	1999999999	xf_session	74CFht_db2jnMul4BubWxc4q8dzAL7-d
+pika-network.net	TRUE	/	FALSE	1999999999	xf_style_id	15
+images.cooltext.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	xiuavoh41bnt1zwwi5aftrmi
+gyazo.com	TRUE	/	FALSE	1999999999	GCLB	COXR5LHixZK5uwE
+i.gyazo.com	TRUE	/	FALSE	1999999999	Gyazo_cfwoker	i
+i.gyazo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.quizlet.com	TRUE	/	FALSE	1999999999	__cf_bm	xUsyk4qp8o6_oVyXGDn2YZuDH5j0wyXV3HJBSWosJE0-1641291931-0-AVjDYUMObtxwPN/xgdNXgxtWqVkmMUs5G2UyJaTM2lAx4z13UzmoUfosqlN1lxk4amZbz7Wfd4tHWv5VOo6ed58=
+o.quizlet.com	TRUE	/	FALSE	1999999999	SameSite	None
+cravatar.eu	TRUE	/	FALSE	1999999999	cf_ob_info	521:6c84d9b3aa5f8543:BOM
+cravatar.eu	TRUE	/	FALSE	1999999999	cf_use_ob	0
+pika-network.net	TRUE	/	FALSE	1999999999	cf_ob_info	524:6c87fcdc5d838555:BOM
+pika-network.net	TRUE	/	FALSE	1999999999	cf_use_ob	0
+.badlion.net	TRUE	/	FALSE	1999999999	__cf_bm	aab6f2b6843728d57bee657d9aaaa388731daa2a-1641339950-0-AWJSNxZn0z59xs3qDgzC8hCkEbY69iZkfWZoOtW2qj8vkLlsNiyM6AsQtsSDm0vOfwsDq4h3TvpwUyCUaxNf1WM=
+i.badlion.net	TRUE	/	FALSE	1999999999	SameSite	None
+media1.tenor.com	TRUE	/	FALSE	1999999999	countryCode	IN
+tenor.com	TRUE	/	FALSE	1999999999	countryCode	IN
+
